@@ -1,0 +1,7 @@
+IMÁGENES (carpeta assets/img/), con estos nombres exactos y en minúsculas:
+  logo.jpg       -> logo cuadrado (aparece en el encabezado y como ícono de pestaña)
+  fachada-1.jpg  -> foto exterior principal (Inicio), horizontal
+  fachada-2.jpg  -> segunda foto (Nosotros), vertical
+Sin fotos el sitio funciona igual, con un fondo azul provisional.
+DATOS A EDITAR: js/main.js (bloque CONFIG). Textos: index.html.
+Para publicar: arrastra esta carpeta completa a https://app.netlify.com/drop
